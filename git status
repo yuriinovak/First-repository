@@ -1,0 +1,31 @@
+[33mcommit 841e5b5b6421b011412cff4d5ea84742d2ec5714[m[33m ([m[1;36mHEAD -> [m[1;32mgreet_Novak[m[33m, [m[1;32mNew_folder[m[33m)[m
+Author: Yurii Novak <Yurii_Novak@epam.com>
+Date:   Tue Aug 21 12:21:26 2018 +0300
+
+    Revert "Fifth commit Novak"
+    
+    This reverts commit 5e59bc00f789c2d5d0e1ad87f35688558ae715a5.
+
+[33mcommit 5e59bc00f789c2d5d0e1ad87f35688558ae715a5[m
+Author: Yurii Novak <Yurii_Novak@epam.com>
+Date:   Tue Aug 21 12:21:05 2018 +0300
+
+    Fifth commit Novak
+
+[33mcommit adafc11c5cdc86ceec377ac9bfcf13cd40996999[m
+Author: Yurii Novak <Yurii_Novak@epam.com>
+Date:   Tue Aug 21 12:04:55 2018 +0300
+
+    Fourth commit Novak
+
+[33mcommit d23f2ecaecb4d98796be39d76a7fb379c658b2cc[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Yurii Novak <Yurii_Novak@epam.com>
+Date:   Tue Aug 21 11:01:43 2018 +0300
+
+    secont commit Novak
+
+[33mcommit de087d4868dc4636f4e0a46b75af53dc36f887db[m
+Author: Yurii Novak <Yurii_Novak@epam.com>
+Date:   Tue Aug 21 10:46:04 2018 +0300
+
+    first commit Novak
