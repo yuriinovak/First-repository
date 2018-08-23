@@ -6,3 +6,4 @@ class Greeter
     "Hello, #{@who}"
   end
 end
+ןרו ןרו
